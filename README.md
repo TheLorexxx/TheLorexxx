@@ -6,7 +6,6 @@
 <hr>
 <br><br>
 <h2>Contact</h2>
-<hr>
 <h3>- Lorex#2942</h3>
 <hr>
 
