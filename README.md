@@ -1,3 +1,4 @@
+<center>
 <h2>About Me</h2>
 <br>
 <h3>- Hi i am lorex!</h3>
@@ -8,5 +9,4 @@
 <h2>Contact</h2>
 <h3>- Lorex#2942</h3>
 <hr>
-
-
+</center>
